@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_Loai" value="name:MaTheLoai;datatype:varchar,name:Ten;datatype:varchar" />
+	<infoitem key="UD_rs_gopy" value="name:MaGopY;datatype:int,name:UserName;datatype:varchar,name:NoiDungGopY;datatype:varchar,name:NgayGopY;datatype:varchar,name:TrangThai;datatype:bit,name:NoiDungTraLoi;datatype:varchar" />
+</info>

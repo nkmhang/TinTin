@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_SP" value="name:MaDoChoi;datatype:int,name:TenDoChoi;datatype:varchar,name:Gia;datatype:float,name:NSX;datatype:varchar,name:Hinh;datatype:varchar,name:MoTa;datatype:varchar,name:MaTheLoai;datatype:varchar" />
+</info>
